@@ -5,6 +5,7 @@ Difficulty: Easy
 Status:     Accepted (01/22/2022 12:21) 73 ms 14.2 MB
 """
 
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         k = str(x)
