@@ -1,7 +1,7 @@
 """LeetCode problem 315. Count of Smaller Numbers After Self
 
 Link:       https://leetcode.com/problems/count-of-smaller-numbers-after-self/
-Difficulty: Easy
+Difficulty: Hard
 Status:     Accepted (06/28/2022 10:39) 7071 ms 33.1 MB
 """
 
