@@ -1,6 +1,6 @@
 """LeetCode problem 199. Binary Tree Right Side View
 
-Link:       https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Link:       https://leetcode.com/problems/binary-tree-right-side-view/
 Difficulty: Medium
 Status:     Accepted (07/11/2022 20:53) 42 ms 14.1 MB
 """
