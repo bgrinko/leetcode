@@ -11,7 +11,6 @@ class Solution:
         R, C = len(grid), len(grid[0])
         visited = [[False for x in range(C)] for y in range(R)]
 
-
         def find(r, c) -> int:
             if grid[r][c] != "1" or visited[r][c]:
                 return 0
@@ -25,11 +24,9 @@ class Solution:
 
             return result
 
-
         res = 0
         for i in range(R):
             for j in range(C):
                 if find(i, j):
                     res += 1
         return res
-
